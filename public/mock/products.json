@@ -1,0 +1,75 @@
+[
+  {
+    "id": "veh-001",
+    "name": "Urban Commuter Bike",
+    "price": 399.99,
+    "imageUrl": "https://images.unsplash.com/photo-1518655048521-f130df041f66?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-002",
+    "name": "Electric Scooter Pro",
+    "price": 699.0,
+    "imageUrl": "https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-003",
+    "name": "Compact City Car",
+    "price": 15999.0,
+    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-004",
+    "name": "Adventure Motorcycle",
+    "price": 8999.0,
+    "imageUrl": "https://images.unsplash.com/photo-1525164286253-04e93c1a6a99?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-005",
+    "name": "Family SUV",
+    "price": 27999.0,
+    "imageUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-006",
+    "name": "Road Bike Carbon",
+    "price": 1299.5,
+    "imageUrl": "https://images.unsplash.com/photo-1520975682038-9b9031f4a3e0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-007",
+    "name": "Electric Hatchback",
+    "price": 21999.0,
+    "imageUrl": "https://images.unsplash.com/photo-1549924231-f129b911e442?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-008",
+    "name": "Off-Road ATV",
+    "price": 5499.0,
+    "imageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-009",
+    "name": "Cargo E-Bike",
+    "price": 1799.0,
+    "imageUrl": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-010",
+    "name": "Luxury Sedan",
+    "price": 36999.0,
+    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-011",
+    "name": "Mountain Bike Trail",
+    "price": 899.0,
+    "imageUrl": "https://images.unsplash.com/photo-1508973378-2f0921ae6aa7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "veh-012",
+    "name": "Hybrid City Bike",
+    "price": 549.0,
+    "imageUrl": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=800&q=80"
+  }
+]
+
